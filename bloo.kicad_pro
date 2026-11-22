@@ -40,8 +40,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.524,
-          "width": 1.524
+          "height": 0.67,
+          "width": 1.14
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -273,7 +273,7 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.7,
+          "diameter": 0.6,
           "drill": 0.3
         }
       ],
